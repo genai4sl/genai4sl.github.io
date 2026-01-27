@@ -1,0 +1,122 @@
+GenSign Workshop Website - License Information
+==============================================
+
+This project contains multiple components with different licenses:
+
+1. WEBSITE TEMPLATE (HTML5 UP - Stellar)
+   -----------------------------------------
+   Original template by @ajlkn
+   License: CCA 3.0 (html5up.net/license)
+   
+   This allows you to:
+   - Use the template for personal and commercial projects
+   - Modify and redistribute the template
+   
+   You must:
+   - Provide attribution to HTML5 UP
+   - Not hold HTML5 UP liable for damages
+   
+   You cannot:
+   - Sub-license or sell the template as-is
+
+2. CUSTOM WORKSHOP CONTENT
+   -------------------------
+   © 2026 GenSign Workshop Organizing Committee
+   
+   Workshop-specific content including:
+   - Workshop description and topics
+   - Speaker and organizer information
+   - Schedule and logistics
+   - Call for papers content
+   
+   All rights reserved by the workshop organizers.
+   
+   Permission is granted to:
+   - Link to and reference this workshop
+   - Use information for academic citation purposes
+   - Adapt the website structure for other academic workshops
+     (with appropriate attribution)
+
+3. CUSTOM CSS AND DESIGN ELEMENTS
+   --------------------------------
+   License: MIT License
+   
+   Copyright (c) 2026 GenSign Workshop Team
+   
+   Permission is hereby granted, free of charge, to any person obtaining
+   a copy of this software and associated documentation files (the
+   "Software"), to deal in the Software without restriction, including
+   without limitation the rights to use, copy, modify, merge, publish,
+   distribute, sublicense, and/or sell copies of the Software, and to
+   permit persons to whom the Software is furnished to do so, subject to
+   the following conditions:
+   
+   The above copyright notice and this permission notice shall be
+   included in all copies or substantial portions of the Software.
+   
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+   EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+   IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+   CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+   TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+   SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+4. THIRD-PARTY LIBRARIES
+   ----------------------
+   This project uses the following third-party libraries:
+   
+   jQuery
+   - License: MIT License
+   - Website: https://jquery.com/
+   
+   Font Awesome Icons
+   - License: Font Awesome Free License
+   - Website: https://fontawesome.com/
+   
+   Google Fonts (Montserrat)
+   - License: Open Font License
+   - Website: https://fonts.google.com/
+
+5. IMAGES AND MEDIA
+   -----------------
+   - Speaker/Organizer photos: © Individual copyright holders
+   - Logo and branding: © GenSign Workshop 2026
+   - Background images: Licensed as indicated in image files
+   
+   Please obtain permission before reusing any images.
+
+6. DOCUMENTATION
+   --------------
+   Documentation files (README.md, SETUP.md, etc.)
+   License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+   
+   You are free to:
+   - Share and adapt the documentation
+   
+   Under the following terms:
+   - Attribution must be given to GenSign Workshop
+
+DISCLAIMER
+----------
+This website is provided for informational purposes related to the
+GenSign Workshop at CVPR 2026. While every effort is made to ensure
+accuracy, the organizers are not liable for any errors or omissions.
+
+ATTRIBUTION
+-----------
+When adapting this website for your own workshop, please include:
+
+"Website structure adapted from GenSign Workshop @ CVPR 2026
+ (https://gensign-workshop.github.io/)"
+
+"Template by HTML5 UP (html5up.net) | @ajlkn
+ Free for personal and commercial use under the CCA 3.0 license"
+
+CONTACT
+-------
+For licensing questions or permission requests:
+Email: gensign.workshop@gmail.com
+
+Last Updated: January 2026
+
