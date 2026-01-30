@@ -180,6 +180,24 @@ section#callforpapers .cfp-intro {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.12);
 }
 
+/* Speaker cards */
+.speaker-card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.speaker-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+.speaker-avatar {
+    transition: transform 0.3s ease;
+}
+
+.speaker-card:hover .speaker-avatar {
+    transform: scale(1.05);
+}
+
 /* Organizer names */
 #organizers h3 {
     font-size: 1em;
@@ -394,6 +412,25 @@ header.major {
     .organizers-grid {
         grid-template-columns: 1fr !important;
         gap: 1em !important;
+    }
+    
+    /* Speakers grid mobile - single column */
+    .speakers-grid {
+        grid-template-columns: 1fr !important;
+        gap: 1em !important;
+    }
+    
+    /* Speakers list mobile - vertical layout */
+    .speakers-list .speaker-card {
+        flex-direction: column !important;
+    }
+    
+    .speakers-list .speaker-card > div {
+        text-align: left !important;
+    }
+    
+    .speakers-list .speaker-avatar {
+        margin: 0 auto !important;
     }
 }
 
